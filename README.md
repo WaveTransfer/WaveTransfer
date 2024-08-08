@@ -56,7 +56,7 @@ If this implementation is helpful in your research, please consider citing our p
 ```
 @inproceedings{baoueb2024wavetransfer,
   title={WaveTransfer: A Flexible End-to-end Multi-instrument Timbre Transfer with Diffusion},
-  author={Teysir and Bie, Xiaoyu and Janati, Hicham and Richard, Gaël},
+  author={Baoueb, Teysir and Bie, Xiaoyu and Janati, Hicham and Richard, Gaël},
   booktitle={34th {IEEE} International Workshop on Machine Learning for Signal Processing, {MLSP} 2024, London, United Kingdom, September 22-25, 2024},
   year={2024}
 }
